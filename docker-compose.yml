@@ -21,7 +21,7 @@ services:
       DB_HOST: db
       DB_PORT: 5432
       DEBUG: "True"
-      OPENAI_API_KEY: "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"
+      OPENAI_API_KEY: ${OPENAI_API_KEY}
     depends_on:
       - db
     command: >
