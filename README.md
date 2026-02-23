@@ -78,7 +78,7 @@ OpenAI API key
 
 Open docker-compose.yml and replace:
 
-OPENAI_API_KEY: "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"
+OPENAI_API_KEY: "companies api"
 
 
 ->Start Everything
